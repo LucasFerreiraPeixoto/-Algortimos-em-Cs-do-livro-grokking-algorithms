@@ -1,6 +1,8 @@
 # Algoritmos em C# - Grokking Algorithms
-
-Este repositório contém minhas implementações e resoluções de exercícios baseadas no livro **"Entendendo Algoritmos" (Grokking Algorithms)** de Aditya Bhargava.
+<p align="center">
+  <img src="Grokking.jpg" alt="Capa do Livro" width="200"/>
+</p>
+Este repositório contém minhas implementações e resoluções de exercícios baseadas no livro "Entendendo Algoritmos" (Grokking Algorithms) de Aditya Bhargava.
 
 O foco deste projeto é fortalecer os fundamentos de Ciência da Computação, explorando lógica de programação, estruturas de dados e análise de complexidade (Big O).
 

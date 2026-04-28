@@ -4,7 +4,7 @@
 </p>
 Este repositório contém minhas implementações e resoluções de exercícios baseadas no livro "Entendendo Algoritmos" (Grokking Algorithms) de Aditya Bhargava.
 
-O foco deste projeto é fortalecer os fundamentos de Ciência da Computação, explorando lógica de programação, estruturas de dados e análise de complexidade (Big O).
+O foco deste projeto é fortalecer os fundamentos, explorando lógica de programação, estruturas de dados e análise de complexidade (Big O).
 
 ## Tecnologias Utilizadas
 * **Linguagem:** C#
